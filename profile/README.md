@@ -1,6 +1,6 @@
 # A Digital Edition of W. H. Auden's Letters to Stella Musulin
 
-![alt text](https://github.com/auden-musulin-papers/.github/blob/main/photo_cc_by_40_timo.jpg?raw=true)
+![alt text](https://github.com/auden-musulin-papers/.github/blob/main/profile.jpg?raw=true)
 
 This project offers a fresh perspective on the later life and work of one of the most influential twentieth-century writers through newly available archival material.
 
